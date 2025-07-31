@@ -13,12 +13,6 @@
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=js,node,ts,py,java,react,angular,flutter,dotnet,mysql,postgres,mongodb&perline=9)
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkeerenc&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=berkeerenc&theme=tokyonight" />
-</p>
-
 ### 📌 Pinned Projects
 <!-- Repo adlarını değiştir -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=WebsiteBuilder&theme=tokyonight)](https://github.com/berkeerenc/WebsiteBuilder)
