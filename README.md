@@ -17,6 +17,7 @@
 <!-- Repo adlarını değiştir -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=WebsiteBuilder&theme=tokyonight)](https://github.com/berkeerenc/WebsiteBuilder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=AI-Chatbot&theme=tokyonight)](https://github.com/berkeerenc/AI-Chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=MistiGame&theme=tokyonight)](https://github.com/berkeerenc/MistiGame)
 
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-erenç-b74342288)
