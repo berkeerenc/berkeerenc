@@ -74,7 +74,6 @@ I enjoy designing reliable APIs, working with modern web technologies and turnin
         <code>PostgreSQL</code>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/berkeerenc/Football_Matchmaking_and_Scouting_Application">
@@ -93,7 +92,6 @@ I enjoy designing reliable APIs, working with modern web technologies and turnin
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
@@ -102,7 +100,7 @@ I enjoy designing reliable APIs, working with modern web technologies and turnin
         </a>
       </h3>
       <p align="center">
-        Multilingual hotel assistant with dynamic switching between LLaMA, Mistral and GPT models.
+        Multilingual hotel assistant with dynamic switching between LLaMA, Mistral and GPT models, conversation history and a responsive interface.
       </p>
       <p align="center">
         <code>Node.js</code>
@@ -111,7 +109,6 @@ I enjoy designing reliable APIs, working with modern web technologies and turnin
         <code>REST API</code>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/berkeerenc/WebsiteBuilder">
