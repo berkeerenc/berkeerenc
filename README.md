@@ -193,12 +193,14 @@ I enjoy designing reliable APIs, working with modern web technologies and turnin
 
 <br>
 
-## GitHub Contributions
+
+## GitHub Activity
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="Berke Erenç 3D GitHub contribution graph"
+    src="./gh-space-shooter.gif"
+    alt="Berke Erenç GitHub contribution space shooter animation"
+    width="100%"
   />
 </p>
 
