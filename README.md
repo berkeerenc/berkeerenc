@@ -25,9 +25,11 @@
 
 <h2 align="center">📊 My GitHub Contributions</h2>
 
+<h2 align="center">📊 My GitHub Contributions</h2>
+
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-season-animate.svg"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
     alt="Berke Erenç 3D Contribution Graph"
   />
 </div>
