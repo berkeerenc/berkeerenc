@@ -22,3 +22,12 @@
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-erenç-b74342288)
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkeerenc@outlook.com.com)
+
+<h2 align="center">📊 My GitHub Contributions</h2>
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-season-animate.svg"
+    alt="Berke Erenç 3D Contribution Graph"
+  />
+</div>
