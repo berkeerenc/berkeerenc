@@ -1,35 +1,139 @@
-<!-- Başlığın altındaki GIF/PP yerine kendi resmini ya da GIF'ini ekleyebilirsin -->
-<h1 align="center">Hi there, I'm Berke 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=210&section=header&text=Berke%20Eren%C3%A7&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Android%20%7C%20Backend%20%7C%20Cybersecurity&descAlignY=55&descSize=16" alt="Berke Erenç profile header" />
+
 <p align="center">
-  <em>Computer Engineering 4th-year student @ Akdeniz University · Cyber-security & backend developer</em>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose;Backend+%26+Cloud+Enthusiast;Cybersecurity+Learner;Building+secure+and+useful+software"
+    alt="Typing animation"
+  />
 </p>
 
-### 🚀 About Me  
-- 🔭 I’m currently building a **Website Builder** and an **AI Chatbot** (Node.js + Angular)  
-- 🛡️ Passionate about **cyber-security** & **backend architecture**  
-- 🌱 Learning **React Native** for mobile dev  
-- 💬 Ask me about **Node, .NET, FastAPI, MongoDB, Packet Tracer…**   
+<p align="center">
+  <a href="https://berkeerenc.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/berke-erenç-b74342288">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:berkeerenc@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" alt="Email" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,node,ts,py,java,react,angular,flutter,dotnet,mysql,postgres,mongodb&perline=9)
+---
 
-### 📌 Pinned Projects
-<!-- Repo adlarını değiştir -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=WebsiteBuilder&theme=tokyonight)](https://github.com/berkeerenc/WebsiteBuilder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=AI-Chatbot&theme=tokyonight)](https://github.com/berkeerenc/AI-Chatbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=berkeerenc&repo=MistiGame&theme=tokyonight)](https://github.com/berkeerenc/MistiGame)
+## About Me
 
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-erenç-b74342288)
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkeerenc@outlook.com.com)
+I am a senior Computer Engineering student at Akdeniz University, focused on building reliable, practical and secure software.
 
-<h2 align="center">📊 My GitHub Contributions</h2>
+* Developing Android applications with **Kotlin**, **Jetpack Compose**, **MVVM** and **Clean Architecture**
+* Experienced in backend development, REST APIs, databases and cloud-based systems
+* Interested in mobile security, cybersecurity, artificial intelligence and IoT technologies
+* Building projects that combine software engineering with real-world problems
 
-<h2 align="center">📊 My GitHub Contributions</h2>
+---
 
-<div align="center">
+## Technologies
+
+<p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Berke Erenç 3D Contribution Graph"
+    src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,py,cs,dotnet,js,ts,nodejs,react,angular,postgres,mongodb,azure,docker,git,github,linux&perline=9"
+    alt="Technology stack"
   />
-</div>
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/berkeerenc/PhysioVision">PhysioVision</a>
+      </h3>
+      <p>
+        AI-powered physical rehabilitation platform that evaluates exercise quality using computer vision and provides real-time feedback.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Flask</code>
+        <code>React</code>
+        <code>TensorFlow</code>
+        <code>MediaPipe</code>
+        <code>PostgreSQL</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/berkeerenc/AiKnock">AiKnock</a>
+      </h3>
+      <p>
+        An interactive AI experience combining contextual RAG conversations, sentiment analysis, dynamic lyric generation and generative music.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>FastAPI</code>
+        <code>Gemini</code>
+        <code>RAG</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/berkeerenc/HisseNabiz">HisseNabız</a>
+      </h3>
+      <p>
+        A Borsa İstanbul analysis platform offering charts, technical indicators, AI-supported market commentary and trading signals.
+      </p>
+      <p>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Node.js</code>
+        <code>PostgreSQL</code>
+        <code>Gemini</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/berkeerenc/ServerlessMonitoring">Serverless Monitoring</a>
+      </h3>
+      <p>
+        A cloud-based service health monitoring system built with serverless Azure technologies and infrastructure as code.
+      </p>
+      <p>
+        <code>.NET 8</code>
+        <code>Azure Functions</code>
+        <code>Cosmos DB</code>
+        <code>Bicep</code>
+        <code>CI/CD</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/berkeerenc?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View all repositories" />
+  </a>
+</p>
+
+---
+
+## GitHub Contributions
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="Berke Erenç 3D GitHub contribution graph"
+  />
+</p>
+
+---
+
+<p align="center">
+  <em>Always learning, building and improving.</em>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=120&section=footer" alt="Profile footer" />
